@@ -1,21 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/catalogue.pw.toml"
-hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
+file = "mods/create-connected.pw.toml"
+hash = "98528535e9a67263a4ef360149800983126a697d2a218090e58da5c01217560a"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
+file = "mods/create-encased.pw.toml"
+hash = "ae0249ad6127e0142f69f3c034140b466a14b76b88ecb38f129eed502ecad517"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "a930b919e6edc62681559da1ebfcdf4873568ad58a0f5d9f73da0093e92ade7b"
+file = "mods/create-fluid.pw.toml"
+hash = "be77bc02b3d1138bc2702cfad73c687db2f2ff91ae2e033ad3f11b4e300d41ab"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+file = "mods/just-enough-characters.pw.toml"
+hash = "2fa29d765abbfb8664ee2d337fdda4329bcc20b0721900207e857918326cf58e"
+metafile = true
+
+[[files]]
+file = "mods/yes-steve-model.pw.toml"
+hash = "6ae9d846d2bbaba8cb2878603a3dd56754e4a8a6bb039c471c212964991698d7"
 metafile = true
