@@ -1,6 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/client_scripts/client_compatibility/createcasing.js"
+hash = "4b92bad34b12da4bd750bbe326d20d36f2aa49c6750d28d396b5db56d2af77f6"
+
+[[files]]
+file = "kubejs/server_scripts/server_compatability/create_fluid.js"
+hash = "ed352b6fe78bdce54ab654f2dd0fc885049f894299a2ffa778f7038e94143fbb"
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "98528535e9a67263a4ef360149800983126a697d2a218090e58da5c01217560a"
 metafile = true
@@ -16,8 +29,38 @@ hash = "be77bc02b3d1138bc2702cfad73c687db2f2ff91ae2e033ad3f11b4e300d41ab"
 metafile = true
 
 [[files]]
+file = "mods/etst-lib.pw.toml"
+hash = "164c76cc26d0bd083da96602cc50381c51ebc145449ec4040cbcebb452ffab82"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-characters.pw.toml"
 hash = "2fa29d765abbfb8664ee2d337fdda4329bcc20b0721900207e857918326cf58e"
+metafile = true
+
+[[files]]
+file = "mods/thermal-endergy.pw.toml"
+hash = "78133e139665d8ce7f789db6b290cd0a9bcb1b50c84d148c8935740d88eeb780"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-advanced-core.pw.toml"
+hash = "ff8fad61846723f3a2376b3b2f5b398f419a292feece4d06e9cb379f7cb8a7ae"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-advanced-materials.pw.toml"
+hash = "c64e531374caf6a2f4ea9c8c13ab71ceeeeb6d2b5b3ba35bb7a29132caf06754"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-advanced-tools.pw.toml"
+hash = "c65cfac90ffe8b686b6eb346bc7e84887f80d7eeb59aec521a7c5849bd45a048"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-advanced-utilities.pw.toml"
+hash = "4ac469d5094f7840a03953307ca4f7d3d59eec3dd97d4011b7201741430b65b5"
 metafile = true
 
 [[files]]
