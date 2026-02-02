@@ -74,6 +74,11 @@ hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "00bcb49250fa1f8e533a321cd650e8e57e3d7f7b6178e0f92c21b93736bfb6a8"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "98528535e9a67263a4ef360149800983126a697d2a218090e58da5c01217560a"
 metafile = true
