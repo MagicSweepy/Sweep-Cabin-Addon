@@ -3,7 +3,16 @@
 This is an addon pack of the modpack **Create: Above & Beyond In Newer** (CABIN) that my friends and I used while playing
 this modpack. It is based on [CABIN 2.1.2](https://github.com/ThePansmith/CABIN/releases/tag/2.1.2) version.
 
-## Contents
+## Features
+
+
+## Some Details
+
+- Advanced Tinkers' Construct Contents
+- High-Tier Thermal Augments
+- Harded Ch.5 Aerospace Technology: Player should craft *Plastic Mechanism* and *Aerospace Machine* for Rocket.
+
+### Mod Changing
 
 Here is the mod changing list:
 
@@ -31,4 +40,7 @@ Where:
 - *"Deleted"* means delete the existed mod in the modpack.
 - *"Updated"* means update the existed mod version.
 
-We modified all additional mods' recipes to compatible with CABIN style recipes.
+### KubeJS Recipe Changing
+
+Same name file is used to *replace existed KubeJS file*, and other is additional KubeJS files. We modified all 
+additional mods' recipes to compatible with CABIN style recipes, and .

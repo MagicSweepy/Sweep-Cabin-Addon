@@ -1,12 +1,72 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ftbquests/quests/stage_5.snbt"
+hash = "aa50770be3fbd261db5a3f718f5daf624d250878154b8c8a015c8a02c1db47f4"
+
+[[files]]
+file = "kubejs/assets/cabin/lang/en_us.json"
+hash = "bfb31de8fece04bf9f7c4d99ce93dfaf8a6e47e0e1727f1ba2aef3872f7697a0"
+
+[[files]]
+file = "kubejs/assets/cabin/lang/zh_cn.json"
+hash = "0ef80089ea9cdc1d61b4d0d798db1e7ffe7a9d82fd0c504050302538f0275658"
+
+[[files]]
+file = "kubejs/assets/cabin/models/block/aerospace_machine.json"
+hash = "d7d6e366b8303b9e820af7f6ab0d38e456680d573525f079a74d5472f7fa90b4"
+
+[[files]]
+file = "kubejs/assets/cabin/textures/block/aerospace_machine.png"
+hash = "8c8f73d643f64ebcdb0715938c2f63a83c97f4085bc251c79966dada32816204"
+
+[[files]]
+file = "kubejs/assets/cabin/textures/item/incomplete_plastic_mechanism.png"
+hash = "f4f6651c14c5b5eb6ca43d94318e5f18cacf46779e472bcd72e8a878552ee6b6"
+
+[[files]]
+file = "kubejs/assets/cabin/textures/item/plastic_mechanism.png"
+hash = "c65fd8375d800700ed94bd5e117135c39aacac60be7074e9d7171dd97c8d3e1e"
+
+[[files]]
+file = "kubejs/assets/thermalendergy/lang/zh_cn.json"
+hash = "7ebcf10b345d0b15f888c431c6955fe93fc9f6384cc422749c7767a5d1de8fbf"
+
+[[files]]
+file = "kubejs/client_scripts/addon_tooltips.js"
+hash = "0513f93609b27f09fa41e48051edd813fc158921bf9333ebd8c8683f6dc33ddc"
+
+[[files]]
 file = "kubejs/client_scripts/client_compatibility/createcasing.js"
 hash = "4b92bad34b12da4bd750bbe326d20d36f2aa49c6750d28d396b5db56d2af77f6"
 
 [[files]]
+file = "kubejs/client_scripts/tooltips.js"
+hash = "890812665d7384060ff9f9d95ed54cad3e4d947a10fdc1896c4362f265df953b"
+
+[[files]]
+file = "kubejs/server_scripts/addon/machines.js"
+hash = "a6b133535e5e84adc85010178e5b33112403931b530046748cb80e687104497a"
+
+[[files]]
+file = "kubejs/server_scripts/addon/mechanisms.js"
+hash = "605090a84091fc40a1e2b63b7b511108a2afdda26302d3755342879a9f509129"
+
+[[files]]
 file = "kubejs/server_scripts/server_compatability/create_fluid.js"
 hash = "ed352b6fe78bdce54ab654f2dd0fc885049f894299a2ffa778f7038e94143fbb"
+
+[[files]]
+file = "kubejs/server_scripts/server_compatability/thermal_endergy.js"
+hash = "00b6eaf99c74ca41786fa58fd8dc7b1f0ce41541197d3c07e4e12cf783d99932"
+
+[[files]]
+file = "kubejs/server_scripts/server_compatability/tinkers_advanced.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/startup_scripts/addon_generate.js"
+hash = "5834887b021acf8611add53e09e8498634c0fee33773d1880bc2069ade47986d"
 
 [[files]]
 file = "mods/artifacts.pw.toml"
